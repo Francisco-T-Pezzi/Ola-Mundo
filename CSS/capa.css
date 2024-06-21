@@ -1,0 +1,33 @@
+
+body{
+
+    background-color: bisque;
+}
+
+picture,#pedro{
+    position: absolute;
+    left: 10%;
+    top: 20%;
+}
+picture,h1#pedro{
+    background-color: rgb(146, 216, 80);
+    border-radius: 25px;
+    position: absolute;
+    margin-top: 25%;
+    left: 60%;
+
+}
+
+picture#david{
+    position: absolute;
+    top: 20%;
+    left: 55%;
+}
+
+picture,h1#david{
+    background-color: rgb(146, 216, 80);
+    border-radius: 25px;
+    position: absolute;
+    left: 60%;
+    margin-top: -90pt;
+}

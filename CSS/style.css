@@ -1,0 +1,45 @@
+body{
+    position: relative;
+    background-color: darkkhaki;
+}
+img#mao200{
+    position: relative;
+    left: 5%;
+    top: 10pt;
+}
+picture#dino{
+    position: absolute;
+    margin: -10% 25% 0% 25%;
+}
+
+img#dino01{
+    border-radius: 25px;
+
+}
+
+img#gammebear{
+    position: relative;
+    top: -200pt;
+    right: 25%;
+    left: 25%;
+    border-radius: 25px;
+}
+
+img#David200{
+    position: relative;
+    left: 60%;
+    top: -70%;
+}
+
+img#Pedro200{
+    position: relative;
+    left: 80%;
+    top:   -235pt;
+}
+h2{
+    position:absolute;
+    left: 40%;
+    top: -5%;
+    font-size: 30pt;
+    width: 300px;
+}

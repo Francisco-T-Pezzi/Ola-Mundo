@@ -1,9 +1,9 @@
-function pedro500(){
-    let audioElement = new Audio('Sunny Day - Reed Mathis.mp3')
+function pedro500() {
+    let audioElement = new Audio('../midias/pedroSaf.mp3')
     audioElement.play()   
 }
 
-function david500(){
-    let audioElement = new Audio('The Wheels On The Bus - The Green Orbs.mp3')
+function david500() {
+    let audioElement = new Audio('../midias/daviSaf.mp3')
         audioElement.play()
 }
